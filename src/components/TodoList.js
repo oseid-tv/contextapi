@@ -12,7 +12,7 @@ class TodoList extends React.Component {
           background: theme.background,
           color: theme.text,
           textAlign: "center",
-          heigth: "140px",
+          height: "140px",
         }}
       >
         <p className="item">Plan the family trip</p>
